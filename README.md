@@ -1,1 +1,11 @@
 # Pizzashop
+
+<!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-utbXrjRwxrVAm47zfwD9OfUjvTYD+Nz6vGqP3LkQ1S8ItVGL3kxNAdSy5JZwKCh8L2JKq4YwMSeLMvS3k2kNgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-wlFf31wSOr3uWci+TKvBRNQQ0Pq7rPa4ht/2LCaVZ+66A4Eb2eWl3+1JkL4pZsfqKxuHUZ53R0+lcRPp4lN/gw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
